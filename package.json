@@ -1,0 +1,29 @@
+{
+    "name": "leadr-prep",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon app.js",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nick-w-nick/leadr-prep.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nick-w-nick/leadr-prep/issues"
+    },
+    "homepage": "https://github.com/nick-w-nick/leadr-prep#readme",
+    "devDependencies": {
+        "dotenv": "^16.0.0",
+        "nodemon": "^2.0.15"
+    },
+    "dependencies": {
+        "express": "^4.17.2"
+    },
+    "type": "module"
+}
