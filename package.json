@@ -24,7 +24,8 @@
     },
     "dependencies": {
         "express": "^4.17.2",
-        "helmet": "^5.0.2"
+        "helmet": "^5.0.2",
+        "jsonfile": "^6.1.0"
     },
     "type": "module"
 }
