@@ -1,0 +1,26 @@
+[
+    {
+        "id": "CEO",
+        "manager": null
+    },
+    {
+        "id": "Salesman2",
+        "manager": "CEO"
+    },
+    {
+        "id": "SalesAssistant2",
+        "manager": "Salesman2"
+    },
+    {
+        "id": "Salesman3",
+        "manager": "CEO"
+    },
+    {
+        "id": "SalesAssistant3",
+        "manager": "Salesman3"
+    },
+    {
+        "id": "Salesman4",
+        "manager": "CEO"
+    }
+]
