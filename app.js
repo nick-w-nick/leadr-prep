@@ -27,5 +27,5 @@ app.get('/', async (req, res) => {
     return res.status(200).send('Hello, World!');
 });
 
-import helloRoute from './routes/hello.js';
-app.use('/hello', helloRoute);
+import employeeRoute from './routes/employee.js';
+app.use('/employee', employeeRoute);
